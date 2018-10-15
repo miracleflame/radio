@@ -11,26 +11,6 @@ WORD talk-a 000 025
 WORD talk-b 025 068
 {
 }
-WORD talk-c 068 078
-{
-}
-WORD talk-d 078 103
-{
-}
-WORD talk-e 103 137
-{
-}
-WORD talk-f 137 169
-{
-}
-WORD comm-a 169 183
-{
-}
-WORD comm-a 183 227
-{
-}
-WORD comm-b 227 281
-{
 }
 WORD comm-c 282 313
 {
@@ -60,6 +40,28 @@ jedinou holkou, kter[ s v[mi str[v` celou noc a s r[nem zmiz`, to m^&u zaru$it.
 Vida, kontrolky u& n[m tu za$aly blikat, jsem j[ to ale obl`ben[.
 Tak poj∑me na to, eniky, beniky, kdo bude ten...
 " 0 25
+
+
+WORD talk-c 068 078
+{
+}
+WORD talk-d 078 103
+{
+}
+WORD talk-e 103 137
+{
+}
+WORD talk-f 137 169
+{
+}
+WORD comm-a 169 183
+{
+}
+WORD comm-a 183 227
+{
+}
+WORD comm-b 227 281
+{
 
 PHRASE char 556 "
 ‚Àastlivec!
